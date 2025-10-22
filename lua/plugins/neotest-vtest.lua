@@ -1,0 +1,5 @@
+return {
+  {
+    "Nsidorenco/neotest-vstest",
+  },
+}

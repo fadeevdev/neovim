@@ -3,8 +3,9 @@ return {
     "nvim-treesitter/nvim-treesitter",
     opts = {
       ensure_installed = {
-        "go",
-        "cpp",
+        "rust",
+        "c_sharp",
+        "fsharp",
       },
     },
   },
